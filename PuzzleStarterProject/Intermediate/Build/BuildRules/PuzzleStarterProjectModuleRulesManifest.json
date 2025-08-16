@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"S:\\Unreal\\PuzzleStarterProject\\Intermediate\\Source\\PuzzleStarterProject.Build.cs",
+		"S:\\Unreal\\PuzzleStarterProject\\Intermediate\\Source\\PuzzleStarterProject.Target.cs",
+		"S:\\Unreal\\PuzzleStarterProject\\Intermediate\\Source\\PuzzleStarterProjectClient.Target.cs",
+		"S:\\Unreal\\PuzzleStarterProject\\Intermediate\\Source\\PuzzleStarterProjectEditor.Target.cs",
+		"S:\\Unreal\\PuzzleStarterProject\\Intermediate\\Source\\PuzzleStarterProjectServer.Target.cs"
+	],
+	"EngineVersion": "5.6.0"
+}
