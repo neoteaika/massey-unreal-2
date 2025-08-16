@@ -1771,3 +1771,44 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.16-11.13.32:659][ 49]LogStaticMesh: Warning: Invalid material [skyobj_mat] used on Nanite static mesh [skyobj]. Only opaque or masked blend modes are currently supported, [BLEND_Additive] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.08.16-11.13.32:659][ 49]LogStaticMesh: Warning: Invalid material [skyobj_mat] used on Nanite static mesh [skyobj]. Only opaque or masked blend modes are currently supported, [BLEND_Additive] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.08.16-11.13.32:659][ 49]LogStaticMesh: Warning: Invalid material [skyobj_mat] used on Nanite static mesh [skyobj]. Only opaque or masked blend modes are currently supported, [BLEND_Additive] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.08.16-11.15.02:106][505]LogDerivedDataCache: C:/Users/neo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: ================================================
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Total job queries 260, among them cache hits 11 (4.23%), DDC hits 172 (66.15%), Duplicates 75 (28.85%)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Tracking 174 distinct input hashes that result in 102 distinct outputs (58.62%)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: RAM used: 858.86 KiB of 1.60 GiB budget. Usage: 0.05%
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Job execution time: average 0.57 s, max 0.57 s
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.62
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Shader code size: total 67.722 KiB, numShaders 2, average 33.86 KiB, min 32.521 KiB, max 35.2 KiB
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.62 s
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Average processing rate: 3.24 jobs/sec
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Total thread time: 0.406 s
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Total thread preprocess time: 3.614 s
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Percentage time preprocessing: 890.51%
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Effective parallelization: 0.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.082079
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 0.20 sec, max 0.24 sec, min 0.17 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 0.20 sec, max 0.24 sec, min 0.17 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.08.16-11.16.12:766][716]LogShaderCompilers: Display: === Material stats ===
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Materials Translated:    139
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Material Translation Only: 0.04 s (43%)
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: Material Cache Hits: 18 (13%)
+[2025.08.16-11.16.12:767][716]LogShaderCompilers: Display: ================================================
