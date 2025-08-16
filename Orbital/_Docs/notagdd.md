@@ -24,3 +24,7 @@ From Cyberspace, you can fly through a digital representation of the station's m
 - The physical entity can manipulate real objects, collect air canisters, and open new areas in Cyberspace.
 - The digital entity can manipulate digital switches, opening new areas to explore in physical space.
 - You need to keep yourself alive with air canisters, while piloting to the other side of the station to activate a beacon.
+
+
+![alt text](image.png)
+
