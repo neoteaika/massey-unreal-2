@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"S:\\GitHub\\massey-unreal-2\\Orbital\\Intermediate\\Source\\Orbital.Build.cs",
+		"S:\\GitHub\\massey-unreal-2\\Orbital\\Intermediate\\Source\\Orbital.Target.cs",
+		"S:\\GitHub\\massey-unreal-2\\Orbital\\Intermediate\\Source\\OrbitalClient.Target.cs",
+		"S:\\GitHub\\massey-unreal-2\\Orbital\\Intermediate\\Source\\OrbitalEditor.Target.cs",
+		"S:\\GitHub\\massey-unreal-2\\Orbital\\Intermediate\\Source\\OrbitalServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
