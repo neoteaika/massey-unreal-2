@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "s:\\github\\massey-unreal-2\\orbital\\intermediate\\build\\win64\\x64\\unrealgame\\development\\orbital\\module.orbital.cpp",
+        "ProvidedModule": "",
+        "PCH": "s:\\github\\massey-unreal-2\\orbital\\intermediate\\build\\win64\\x64\\orbital\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "s:\\github\\massey-unreal-2\\orbital\\intermediate\\build\\win64\\x64\\unrealgame\\development\\orbital\\definitions.orbital.h",
+            "s:\\github\\massey-unreal-2\\orbital\\intermediate\\source\\orbital.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

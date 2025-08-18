@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Orbital.cpp.obj": [
+			"Orbital.cpp.obj"
+		]
+	}
+}
