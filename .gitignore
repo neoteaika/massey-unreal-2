@@ -78,3 +78,13 @@ DerivedDataCache/*
 /Orbital/Saved/Config/CrashReportClient
 *.log
 /Orbital/Saved/Config/CrashReportClient
+/Orbital/Content/Weapons
+/Orbital/Saved/Autosaves
+*.log
+/Orbital/Saved/Config/CrashReportClient
+/Orbital/Content/Vehicles
+/Orbital/Content/VehicleTemplate
+/Orbital/Content/VRTemplate
+/Orbital/Saved/Config/CrashReportClient
+/Orbital/Content/VRSpectator
+/Orbital/Content/LevelPrototyping
