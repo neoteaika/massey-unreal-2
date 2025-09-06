@@ -72,3 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Orbital/Saved/Logs
+/Orbital/Saved/Logs
+/Orbital/Saved/Crashes
+/Orbital/Saved/Config/CrashReportClient
+*.log
+/Orbital/Saved/Config/CrashReportClient
