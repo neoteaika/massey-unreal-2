@@ -92,3 +92,6 @@ DerivedDataCache/*
 /Orbital/Content/__ExternalObjects__
 /Orbital/Saved/Logs
 /Orbital/Saved
+Orbital/Content/_nOrbital/ui/fonts/BerkeleyMono-Bold.uasset
+Orbital/Content/_nOrbital/ui/fonts/BerkeleyMono-Regular.uasset
+Orbital/Content/_nOrbital/ui/fonts/BerkeleyMono.uasset
