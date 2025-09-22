@@ -3451,7 +3451,27 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Media/AvfMedia/AvfMedia.uplugin",
+			"Path": "$(EngineDir)/Plugins/Media/D3D12VideoDecodersElectra/D3D12VideoDecodersElectra.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/ElectraCDM/ElectraCDM.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/ElectraCodecs/ElectraCodecs.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/ElectraPlayer/ElectraPlayer.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/ElectraSubtitles/ElectraSubtitles.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/ElectraUtil/ElectraUtil.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3467,7 +3487,11 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Media/WebMMedia/WebMMedia.uplugin",
+			"Path": "$(EngineDir)/Plugins/Media/OpusDecoderElectra/OpusDecoderElectra.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Media/VPxDecoderElectra/VPxDecoderElectra.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3619,10 +3643,6 @@
 			"Type": "UFS"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/WebMMoviePlayer/WebMMoviePlayer.uplugin",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin",
 			"Type": "UFS"
 		},
@@ -3676,7 +3696,6 @@
 		"AudioSynesthesia",
 		"AudioWidgets",
 		"AutomationUtils",
-		"AvfMedia",
 		"BackChannel",
 		"BlendSpaceMotionAnalysis",
 		"BlueprintHeaderView",
@@ -3707,6 +3726,7 @@
 		"CryptoKeys",
 		"CurveEditorTools",
 		"CustomMeshComponent",
+		"D3D12VideoDecodersElectra",
 		"DataValidation",
 		"Dataflow",
 		"DatasmithContent",
@@ -3717,6 +3737,11 @@
 		"EditorPerformance",
 		"EditorScriptingUtilities",
 		"EditorTelemetry",
+		"ElectraCDM",
+		"ElectraCodecs",
+		"ElectraPlayer",
+		"ElectraSubtitles",
+		"ElectraUtil",
 		"EngineAssetDefinitions",
 		"EngineCameras",
 		"EnhancedInput",
@@ -3768,6 +3793,7 @@
 		"Niagara",
 		"NiagaraSimCaching",
 		"ObjectMixer",
+		"OpusDecoderElectra",
 		"Paper2D",
 		"PixWinPlugin",
 		"PlanarCut",
@@ -3809,13 +3835,12 @@
 		"UMGWidgetPreview",
 		"UVEditor",
 		"UbaController",
+		"VPxDecoderElectra",
 		"VariantManager",
 		"VariantManagerContent",
 		"VisualStudioCodeSourceCodeAccess",
 		"VisualStudioSourceCodeAccess",
 		"WaveTable",
-		"WebMMedia",
-		"WebMMoviePlayer",
 		"WindowsDeviceProfileSelector",
 		"WindowsMoviePlayer",
 		"WmfMedia",
